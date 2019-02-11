@@ -1,0 +1,4 @@
+<view class="intro">欢迎使用晨阳电脑应用</view>
+<view class="intro">欢迎使用晨阳电脑应用</view>
+<view>{{ msg }}</view>
+<button bindtap="clickMe">点击我</button>
