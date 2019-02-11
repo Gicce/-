@@ -1,11 +1,12 @@
 {
   "pages":[
-    "index/index"
+    "index/index",
+    "logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "MiniProgram",
     "navigationBarTextStyle":"black"
   }
 }
